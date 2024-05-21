@@ -1,10 +1,10 @@
 import Image from "next/image";
-import { Homepage } from "@/components/Homepage";
+import { Storehome } from "@/components/storehome";
 
 export default function Home() {
 	return (
 		<main>
-			<Homepage />
+			<Storehome />
 		</main>
 	);
 }
