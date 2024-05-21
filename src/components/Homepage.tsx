@@ -278,7 +278,9 @@ export function Homepage() {
 	);
 }
 
-function BotIcon(props) {
+interface BotIconProps extends React.SVGProps<SVGSVGElement> {}
+
+function BotIcon(props: BotIconProps) {
 	return (
 		<svg
 			{...props}
