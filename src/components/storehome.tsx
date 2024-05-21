@@ -307,7 +307,7 @@ export function Storehome() {
 						<div className="mt-4 space-y-1">
 							<h3 className="text-lg font-medium">Artemis AI</h3>
 							<p className="text-sm text-gray-500 dark:text-gray-400">
-								AI-powered personal assistant for your daily
+								AI-powered personal assistant for your
 								tasks.
 							</p>
 						</div>
